@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'planazo-backend'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_478C7449C26A41CB95D9F4F14505F949 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7464B1A860024D818CD61B78175729C6 }}
